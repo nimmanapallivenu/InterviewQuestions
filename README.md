@@ -36,6 +36,17 @@ Principal-level engineers with expertise in:
   - Best practices and performance optimization
   - 📘 **[Enhanced Consolidated Guide](./java-spring-boot/CONSOLIDATED-GUIDE.md)** - Deep dive with detailed explanations, diagrams, and code examples
 
+- **[Data Structures & Algorithms](./data-structures-algorithms/README.md)** - 100 Problems
+  - Arrays & Strings (Two Sum, Maximum Subarray, Sliding Window)
+  - Linked Lists (Reverse, Merge, Cycle Detection)
+  - Trees & Graphs (BFS, DFS, Binary Trees, Graph Traversal)
+  - Dynamic Programming (Climbing Stairs, Coin Change, LCS)
+  - Stacks & Queues (Min Stack, Sliding Window Maximum)
+  - Heaps & Priority Queues (Kth Largest, Top K Elements)
+  - Backtracking & Recursion (Subsets, Permutations, N-Queens)
+  - Binary Search & Sorting (Binary Search, Merge Sort)
+  - Complete solutions with diagrams, flowcharts, and multiple approaches
+
 - **[REST API Design](./rest-api/README.md)** - 100 Questions
   - REST fundamentals and principles
   - HTTP methods and status codes

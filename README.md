@@ -36,6 +36,28 @@ Principal-level engineers with expertise in:
   - Best practices and performance optimization
   - 📘 **[Enhanced Consolidated Guide](./java-spring-boot/CONSOLIDATED-GUIDE.md)** - Deep dive with detailed explanations, diagrams, and code examples
 
+- **[Spring Batch & ETL](./spring-batch/README.md)** - 100 Questions
+  - Spring Batch architecture and components
+  - Job, Step, and Tasklet patterns
+  - Chunk-oriented processing
+  - ItemReader, ItemProcessor, ItemWriter
+  - Partitioning and parallel processing
+  - Error handling and retry strategies
+  - ETL design patterns (Extract, Transform, Load)
+  - Real-world scenarios (Banking, Finance, Insurance)
+  - Complete code examples with diagrams
+
+- **[Spring Kafka](./spring-kafka/README.md)** - 100 Questions
+  - Kafka architecture and components
+  - Topics, partitions, and replication
+  - Producers and consumers
+  - Offset management strategies
+  - Exactly-once semantics
+  - Transactional messaging
+  - Kafka Streams integration
+  - Enterprise patterns and best practices
+  - Real-world event-driven architectures
+
 - **[Data Structures & Algorithms](./data-structures-algorithms/README.md)** - 100 Problems
   - Arrays & Strings (Two Sum, Maximum Subarray, Sliding Window)
   - Linked Lists (Reverse, Merge, Cycle Detection)
